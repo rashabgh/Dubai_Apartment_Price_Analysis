@@ -34,4 +34,7 @@ An Excel file containing the following apartment data:
 - Only the essential columns are kept to simplify analysis.
 - The `Price_per_sqft` column was already present in the original dataset.
 - A sample dataset version is included to protect sensitive information.
+
+- ##Dashboard Preview
+- ![Dashboard](images/Screenshot 2025-10-22 070351)
   
