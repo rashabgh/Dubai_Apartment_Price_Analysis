@@ -36,7 +36,7 @@ An Excel file containing the following apartment data:
 - A sample dataset version is included to protect sensitive information.
 
 - ##Dashboard Preview
-- ![Dashboard](images/dashboard.png)
+  ![Dashboard Preview](Dashboard-dashboard.png)
   
   
   
