@@ -36,5 +36,5 @@ An Excel file containing the following apartment data:
 - A sample dataset version is included to protect sensitive information.
 
 - ##Dashboard Preview
-- ![Dashboard](Screenshot 2025-10-22 070351.png)
+- ![Dashboard](image/Screenshot%2025-10-22%070351.png)
   
